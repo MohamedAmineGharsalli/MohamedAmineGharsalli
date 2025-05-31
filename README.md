@@ -5,4 +5,4 @@
 💡 Always eager to learn, collaborate, and contribute to meaningful open-source projects.
 
 🌱 Currently learning: AWS, Docker, React, Laravel  
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/gharsalli-med-amine-6161a7266) | Email: mohamedamin.gharsalli@episousse.com.tn 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gharsalli-med-amine-6161a7266) | Email: mohamedamin.gharsalli@episousse.com.tn 
